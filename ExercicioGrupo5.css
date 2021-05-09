@@ -1,0 +1,18 @@
+div {
+  alignment: center;
+  width: 200px;
+  height: 200px;
+  background: #555555;
+  transition: width 2s, height 2s, transform 2s;
+}
+
+div:hover {
+  alignment: center;
+  width: 200px;
+  height: 200px;
+  transform: rotate(360deg);
+}
+h1{
+  font-family: Georgia;
+  text-align: center;
+}
